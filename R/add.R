@@ -8,10 +8,10 @@
 #' @examples
 #' ## Start with something simple
 #' add(1,1)
-#'
+#' >> 2
 #' ## Now something more difficult
 #' add(49,60)
-#'
+#' >> 109
 #' @export
 
 add <- function(x,y){x+y}
