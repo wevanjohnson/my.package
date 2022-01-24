@@ -1,0 +1,19 @@
+#' This is my multiplication function
+#'
+#' @param x this is the first value to multiply
+#' @param y this is the second value to multiply
+#'
+#' @return This function returns the product of x and y
+#'
+#' @examples
+#' ## Start with something simple
+#' product(1,1)
+#'
+#' ## Now something more difficult
+#' product(49,60)
+#'
+#' @export
+
+product <- function(x,y){x*y}  ## and remove the '#' before this line in the .R file
+
+## Now save the file and use the add, commit, and push commands to move it to the local and remote repos.
