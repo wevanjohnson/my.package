@@ -7,7 +7,12 @@ Authors@R:
            role = c("aut", "cre"),
            email = "wej@bu.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This is my new package to do addition and subtraction.
+    person(given = "Nisreen",
+           family = "Khambati",
+           role = c("aut", "cre"),
+           email = "nkhambati1990@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This is my new package to do addition and subtraction and multiplication
 License: Artistic 2.0
 Encoding: UTF-8
 LazyData: true
