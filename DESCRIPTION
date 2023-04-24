@@ -13,6 +13,7 @@ Authors@R:
            email = "nkhambati1990@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This is my new package to do addition and subtraction and multiplication
+Adding extra description to test two modifications at the same time
 License: Artistic 2.0
 Encoding: UTF-8
 LazyData: true
