@@ -2,7 +2,7 @@ Package: my.package
 Title: This is my first R package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "W. Evan",
+    person(given = "William. Evan",
            family = "Johnson",
            role = c("aut", "cre"),
            email = "w.evan.johnson@rutgers.edu",
