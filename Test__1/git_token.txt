@@ -2,3 +2,5 @@ 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
 
 
 http://bioconductor.org/packages/devel/bioc/vignettes/SummarizedExperiment/inst/doc/SummarizedExperiment.html#anatomy-of-a-summarizedexperiment
+
+https://happygitwithr.com/rstudio-git-github.html
