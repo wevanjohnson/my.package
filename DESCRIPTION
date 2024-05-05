@@ -2,11 +2,11 @@ Package: my.package
 Title: This is my first R package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "W. Evan",
-           family = "Johnson",
-           role = c("aut", "cre"),
-           email = "w.evan.johnson@rutgers.edu",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person(given = "W. Evan", "Delong",
+           family = "Johnson", "Zhou",
+           role = c("aut", "cre"), "student",
+           email = "w.evan.johnson@rutgers.edu", dz270@gsbs.rutgers.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"), "N/A")
 Description: This is my new package to do addition, subtraction, and multiplication
 License: Artistic 2.0
 Encoding: UTF-8
