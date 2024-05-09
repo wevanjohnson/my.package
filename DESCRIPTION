@@ -2,8 +2,8 @@ Package: my.package
 Title: This is my first R package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "W. Evan",
-           family = "Johnson",
+    person(given = "Kashaf",
+           family = "Zafar",
            role = c("aut", "cre"),
            email = "w.evan.johnson@rutgers.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
