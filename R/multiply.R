@@ -7,10 +7,10 @@
 #'
 #' @examples
 #' ## Start with something simple
-#' add(1,1)
+#' multiply(1,1)
 #'
 #' ## Now something more difficult
-#' add(49,60)
+#' multiply(49,60)
 #'
 #' @export
 
