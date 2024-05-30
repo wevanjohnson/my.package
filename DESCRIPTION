@@ -6,9 +6,16 @@ Authors@R:
            family = "Johnson",
            role = c("aut", "cre"),
            email = "w.evan.johnson@rutgers.edu",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+    person(given = "Paolo",
+           family = "Turano",
+           role = c("aut"),
+           email = "pst34@gsbs.rutgers.edu")
 Description: This is my new package to do addition, subtraction, and multiplication
 License: Artistic 2.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.0
+
+cd R
+nano multiply.R
