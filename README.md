@@ -1,11 +1,11 @@
 Package: my.package
-Title: This is my first R package
+Title: This is my first 2025 R package
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Brian",
            family = "Nyiro",
            role = c("aut", "cre"),
-           email = "bn213@gsbs.rutgers.edu",
+           email = "bn213@rutgers.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This is my new package to do addition, subtraction, and multiplication
 License: Artistic 2.0
