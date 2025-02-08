@@ -6,6 +6,11 @@ Authors@R:
            family = "Johnson",
            role = c("aut", "cre"),
            email = "wevanjohnson@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"),
+    person(given = "Musaib",
+           family = "Syed",
+           role = c("aut", "cre"),
+           email = "musaib.syed@rutgers.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This is my new package to do addition, subtraction, and multiplication
 License: Artistic 2.0
