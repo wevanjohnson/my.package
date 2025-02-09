@@ -2,13 +2,16 @@ Package: my.package
 Title: This is my first R package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Evan",
-           family = "Johnson",
+    person(given = "Alondra",
+           family = "Ruelas",
            role = c("aut", "cre"),
-           email = "wevanjohnson@gmail.com",
+           email = "alondra.ebony@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This is my new package to do addition, subtraction, and multiplication
 License: Artistic 2.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.0
+
+:wq
+
