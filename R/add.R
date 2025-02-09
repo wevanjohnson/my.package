@@ -15,3 +15,6 @@
 #' @export
 
 add <- function(x,y){x+y}
+multiply <- function(a, b) { 
+  return(a * b) 
+}
