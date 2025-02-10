@@ -1,7 +1,12 @@
 Package: my.package
 Title: This is my first R package
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
+    person(given = "Stephen",
+           family = "Anyanwu",
+	   role = c("aut")
+	   email = "tanyanwu3@gmail.com")
+
     person(given = "Evan",
            family = "Johnson",
            role = c("aut", "cre"),
