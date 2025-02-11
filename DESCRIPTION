@@ -2,10 +2,10 @@ Package: my.package
 Title: This is my first R package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Evan",
-           family = "Johnson",
+    person(given = "Bansi",
+           family = "Kakadiya",
            role = c("aut", "cre"),
-           email = "wevanjohnson@gmail.com",
+           email = "bk675@gsbs.rutgers.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This is my new package to do addition, subtraction, and multiplication
 License: Artistic 2.0
